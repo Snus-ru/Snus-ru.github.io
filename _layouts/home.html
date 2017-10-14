@@ -1,0 +1,63 @@
+{% include head.html %}
+
+<body class="is-home">
+	<div class="content">
+		
+		{% include header.html %}
+		
+		{% include top-line.html %}
+
+		<main>
+
+			<!-- BANNER START -->
+			<div class="jumbotron bg-light">
+				<div class="container">
+					<h1>{{page.h1-title}}</h1>
+					<p class="lead">{{page.lead-text}}</p>
+					<small class="text-secondary">{{page.small-text}}</small>
+
+				</div>
+			</div>
+			<!-- BANNER END -->
+
+			<section class="wrap-products container">
+				<h2>Шведский снюс</h2>
+
+				<div class="row">
+
+					<!-- COLUMN PRODUCTS START -->
+
+					<!-- PRODUCT START -->
+					{% assign sorted_items = site.snus | sort:"position" %}
+					{% for product in sorted_items %}
+					
+					{% include product-item.html %}
+
+					{% endfor %}
+					<!-- PRODUCT END -->
+
+					<!-- COLUMN PRODUCTS END -->
+				</div>
+
+			</section>
+
+			<article class="container">
+				<h2>Популярные бренды</h2>
+				<div class="wrap-brands d-flex justify-content-between">
+					<a href="/brands/siberia.html" class="item-brand"><img src="images/brands/siberia.jpg" alt="Siberia Snus"></a>
+					<a href="/brands/odens.html" class="item-brand"><img src="images/brands/odens.jpg" alt="Odens Snus"></a>
+					<a href="/brands/epok.html" class="item-brand"><img src="images/brands/epok.jpg" alt="Epok Snus"></a>
+					<a href="/brands/general.html" class="item-brand"><img src="images/brands/general.jpg" alt="General Snus"></a>
+					<a href="/brands/thunder.html" class="item-brand"><img src="images/brands/thunder.jpg" alt="Thunder Snus"></a>
+				</div>
+			</article>
+
+		</main>
+
+
+		{% include modal-cart.html %}
+
+		{% include modal-contact.html %}
+	</div>
+
+{% include footer.html %}

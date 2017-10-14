@@ -1,0 +1,2 @@
+Host: http://snusprim.com
+Sitemap: http://snusprim.com/sitemap.xml

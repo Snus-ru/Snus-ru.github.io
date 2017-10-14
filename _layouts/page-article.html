@@ -1,0 +1,25 @@
+{% include head.html %}
+
+<body>
+
+	<div class="content">
+
+		{% include header.html %}
+		
+		{% include top-line.html %}
+		
+		
+		<div class="container">
+			<main>
+				<h1>{{ page.h1-title }}</h1>
+				{{content}}
+			</main>
+		</div>
+
+
+		{% include modal-cart.html %}
+		
+		{% include modal-contact.html %}
+	</div>
+
+{% include footer.html %}

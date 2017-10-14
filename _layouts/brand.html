@@ -1,0 +1,50 @@
+{% include head.html %}
+
+<body>
+	<div class="content">
+
+		{% include header.html %}
+		
+		{% include top-line.html %}
+		
+		
+		<div class="container">
+			<main class="brands">
+				<section>
+					<h1>{{ page.name-brand }}</h1>
+					<div class="row">
+						<article class="brands-item col-md-6">
+							<div class="wrap-img">
+								<img class="img-fluid" src="{{ page.image }}" alt="{{ page.name-brand }}">
+							</div>
+							<div class="wrap-text">
+								{{ content }}
+							</div>
+						</article>	
+					</div>
+					<h2>Список продуктов бренда {{ page.name-brand }}</h2>
+					<div class="row">
+
+					<!-- PRODUCT START -->
+					{% assign sorted_items = site.snus | sort:"position" | where:"brand", page.title %}
+					{% for product in sorted_items %}
+					
+					{% include product-item.html %}
+					
+					{% endfor %}
+					<!-- PRODUCT END -->
+
+					</div>
+				</section>
+
+
+			</main>
+		</div>
+
+
+		{% include modal-cart.html %}
+		
+		{% include modal-contact.html %}
+	</div>
+
+{% include footer.html %}

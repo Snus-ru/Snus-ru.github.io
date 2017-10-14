@@ -1,0 +1,44 @@
+---
+title-seo: SnusPrim | Статьи
+descr: лог сайта SnusPrim. Интересные статьи о снюсе.
+---
+
+{% include head.html %}
+<body>
+
+	<div class="content">
+
+		{% include header.html %}
+		
+		{% include top-line.html %}		
+		
+		<div class="container">
+			<main class="acrticles">
+				<h1>Информация и новости о снюсе</h1>
+				<div class="row">
+
+					
+					{% assign sorted_articles = site.articles | sort:"position" %}
+					{% for article in sorted_articles %}
+					<div class="col-sm-6">
+						<article class="card">
+							<div class="card-body">
+								<h2 class="card-title">{{ article.h1-title | truncate: 35 }} </h2>
+								<p class="card-text">{{ article.content | truncate: 250 }}</p>
+								<a href="{{ article.url }}" class="btn btn-primary">Читать дальше</a>
+							</div>
+						</article>
+					</div>
+					{% endfor %}
+
+				</div>
+			</main>
+		</div>
+
+
+		{% include modal-cart.html %}
+
+		{% include modal-contact.html %}
+	</div>
+
+{% include footer.html %}

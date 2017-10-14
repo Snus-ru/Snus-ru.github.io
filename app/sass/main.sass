@@ -1,0 +1,324 @@
+@import "vars"
+@import "../libs/fontello/fontello"
+
+// прижал footer к низу
+html,
+body
+	height: 100%
+
+body
+	min-width: 320px
+	position: relative
+	overflow-x: hidden
+	display: flex
+	flex-direction: column
+
+.content
+	flex: 1 0 auto
+
+ul
+	list-style-type: none
+
+img
+	max-width: 100%
+	height: auto
+
+*
+	outline: none
+
+a:hover
+	text-decoration: none
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6
+	font-weight: 400
+
+h1, .h1
+	font-size: 1.9rem
+h2, .h2
+	font-size: 1.6rem
+h3, .h3
+	font-size: 1.2rem
+h4, .h4
+	font-size: 1.1rem
+h5, .h5
+	font-size: 1.1rem
+h6, .h6
+	font-size: 1rem
+
+button
+	cursor: pointer
+
+.list-d-ib
+	-webkit-padding-start: 0
+	-webkit-margin-after: 0
+	margin: 0
+	li
+		display: inline-block
+
+
+// custom style start
+.main-head
+	.navbar
+		padding: .3rem 0
+	.nav-item
+		&:last-child
+			.nav-link
+				padding-right: 0
+
+.top-line
+	padding: 0
+	border-bottom: 1px solid #eee
+	position: sticky
+	position: -webkit-sticky
+	position: -moz-sticky
+	position: -ms-sticky
+	position: -o-sticky
+	top: -1px
+	z-index: 1
+	margin-bottom: 1.5rem
+
+.is-home
+	.top-line
+		margin-bottom: 0
+
+.cart
+	padding: 3px 10px
+	padding-left: 0
+	color: #000
+	transition: all .3s
+	position: relative
+	span
+		position: absolute
+		top: 3px
+		left: 33px
+		font-size: 14px
+	&:hover
+		color: $accent
+	.icon-basket
+		font-size: 25px
+
+.wrap-products
+	margin-bottom: 1rem
+
+.cart-item
+	display: flex
+	align-items: center
+	padding: 10px 25px 10px 15px
+	border-bottom: 1px solid #eee
+	position: relative
+	img
+		margin-right: 10px
+		width: 75px
+		height: auto
+	.close
+		position: absolute
+		top: 5px
+		right: 10px
+		padding: 5px
+		cursor: pointer
+		font-size: 1.1rem
+
+
+main
+	margin-bottom: 2rem
+
+.jumbotron
+	padding: 1.4rem 0
+
+// product little item start
+
+.product
+	overflow: hidden
+	margin-bottom: 2rem
+	.wrap-img
+		display: inline-block
+		width: 200px
+		height: 148px
+		margin-bottom: 25px
+	img
+		width: 100%
+	h3
+		margin-bottom: 20px
+		height: 2.4rem
+
+
+.product-link
+	color: #212529
+	padding: 20px 5px
+	display: inline-block
+	position: relative
+	width: 100%
+	&:hover
+		color: #000
+
+.strength
+	i
+		display: inline-block
+		width: 10px
+		height: 10px
+		border-radius: 50%
+		border: 1px solid #000
+	.hit
+		background: #000
+
+
+.product-info
+	padding: 7px
+	line-height: 1.2
+
+.product-btn
+	a
+		width: 100%
+		display: inline-block
+		color: #fff
+		padding: 0.5rem 0.5rem
+		transition: all .3s
+	.not-available
+		background: #c6c8ca
+		color: #1b1e21
+		&:hover,
+		&:focus
+			background: #c6c8ca
+			color: #1b1e21
+
+.detail
+	background: #3395ff
+	&:hover
+		background: darken(#3395ff, 3%)
+	&:focus
+		background: darken(#3395ff, 6%)
+.btn-cart
+	background: #2bb149
+	&:hover
+		background: darken(#2bb149, 3%)
+	&:focus
+		background: darken(#2bb149, 6%)
+
+
+#cartModal
+	.modal-body
+		padding: 0
+	.cart-total
+		padding: 10px 15px
+
+#contactModal
+	ul
+		margin: 0
+		padding: 0
+	li
+		border-bottom: 1px solid #eee
+		&:last-child
+			border-bottom: none
+	a
+		display: flex
+		align-items: center
+		padding: 5px 5px 5px 25px
+	i
+		margin-right: 7px
+		font-size: 22px
+	.icon-mobile
+		color: #000
+	.icon-viber
+		color: #59267c
+	.icon-whatsapp
+		color: #25d366
+	.icon-vkontakte
+		color: #45668e
+	.icon-instagram
+		color: #e1306c
+	.icon-telegram
+		color: #0088cc
+
+.price
+	font-size: 1.2rem
+	font-weight: 500
+	margin-bottom: 1rem
+	.old-price
+		color: #ccc
+		font-weight: normal
+		text-decoration: line-through
+		font-size: 1rem
+		margin-right: 10px
+	.new-price
+		color: #2bb149
+
+
+
+.wrap-brands
+	margin-bottom: 1rem
+	.item-brand
+		margin-top: 5px
+		position: relative
+		overflow: hidden
+		img
+			width: 100%
+			height: auto
+		&:after
+			content: ''
+			position: absolute
+			top: 0
+			left: 0
+			width: 100%
+			height: 100%
+			background: rgba(#000, .7)
+			margin-top: 0
+			transition: all .5s
+		&:hover
+			&:after
+				margin-top: 100%
+
+
+
+// Мини корзина start
+@import "cart_mini"
+// Мини корзина end
+
+// footer start
+.main-foot
+	padding: 20px 0 10px
+	background: #eee
+	flex: 0 0 auto
+	article
+		margin-bottom: 10px
+		h4
+			margin-bottom: 5px
+		ul
+			padding: 0
+			margin: 0
+		a
+			color: darken(#fff, 70%)
+			font-size: .9rem
+			padding-left: 20px
+			position: relative
+			&:before
+				content: '-'
+				position: absolute
+				display: block
+				left: 5px
+			&:hover
+				text-decoration: underline
+
+.foot-info
+	margin-bottom: 10px
+
+.copy
+	border-top: 1px solid #eee
+	padding-top: 10px
+	font-size: .9rem
+
+// footer end
+
+// Карточка товара start
+@import "product"
+// Карточка товара end
+
+// страинца brands start
+@import "brands"
+// страинца brands end
+
+// страинца articles start
+@import "articles"
+// страинца articles end
+
+
+@import "media" // Всегда в конце

@@ -1,0 +1,48 @@
+---
+title-seo: SnusPrim | Бренды снюса
+descr: У нас широкий ассортимент снюса. Odens, Siberia, Epok, Thunder, General и другие бренды.
+---
+
+{% include head.html %}
+
+<body>
+	<div class="content">
+
+		{% include header.html %}
+		
+		{% include top-line.html %}
+		
+		
+		<div class="container">
+			<main class="brands">
+				<section>
+					<h1>Бренды</h1>
+
+					<div class="row">
+
+						{% assign sorted_items = site.brands | sort:"position" %}
+						{% for brand in sorted_items %}
+						<article class="brands-item col-md-6">
+							<a href="{{ brand.url }}" class="wrap-img">
+								<img class="img-fluid" src="{{brand.image}}" alt="{{brand.name-brand}}">
+							</a>
+							<div class="wrap-text">
+								{{brand.content}}
+							</div>
+						</article>
+						{% endfor %}
+
+					</div>
+				</section>
+
+
+		</main>
+	</div>
+
+
+	{% include modal-cart.html %}
+
+	{% include modal-contact.html %}
+</div>
+
+{% include footer.html %}
