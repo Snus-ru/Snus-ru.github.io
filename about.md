@@ -1,4 +1,5 @@
 ---
+title: about
 position: 1
 title-seo: SnusPrim | О нас
 descr: SnusPrim — интернет-магазин по продаже снюса в России.
