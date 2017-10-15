@@ -1,9 +1,10 @@
 ---
-layout: brand
 title: Epok
+layout: brand
 title-seo: Epok Snus в России
-descr: Epok Snus можно приобрести в нашем интернет-магазине. Отправляем по всей территории России.
-image: /images/brands/epok-brand.jpg
+descr: Epok Snus можно приобрести в нашем интернет-магазине. Отправляем по всей территории
+  России.
+image: "/images/brands/epok-brand.jpg"
 name-brand: Epok Snus
 ---
 

@@ -1,4 +1,5 @@
 ---
+title: Kak Upotreblyat Snus
 title-seo: Что такое снюс?
 descr: Снюс(жевательный табак) — вид табачного изделия. Хорошая альтернатива сигаретам.
 layout: page-article

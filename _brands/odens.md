@@ -1,9 +1,10 @@
 ---
-layout: brand
 title: Odens
+layout: brand
 title-seo: Odens Snus в России
-descr: Odens Snus можно приобрести в нашем интернет-магазине. Отправляем по всей территории России.
-image: /images/brands/odens-brand.jpg
+descr: Odens Snus можно приобрести в нашем интернет-магазине. Отправляем по всей территории
+  России.
+image: "/images/brands/odens-brand.jpg"
 name-brand: Odens Snus
 ---
 

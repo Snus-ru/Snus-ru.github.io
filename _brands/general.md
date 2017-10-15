@@ -1,9 +1,10 @@
 ---
-layout: brand
 title: General
+layout: brand
 title-seo: General Snus в России
-descr: General Snus можно приобрести в нашем интернет-магазине. Отправляем по всей территории России.
-image: /images/brands/general-brand.jpg
+descr: General Snus можно приобрести в нашем интернет-магазине. Отправляем по всей
+  территории России.
+image: "/images/brands/general-brand.jpg"
 name-brand: General Snus
 ---
 

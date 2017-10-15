@@ -1,80 +1,82 @@
-exclude:
-  - package.json
-  - gulpfile.js
-  - node_modules
-  - app
-  - Gemfile
-  - Gemfile.lock
-
-include: ['.htaccess']
-
+---
+title: Snus Ru.Github.Io
+timezone: UTC
 collections:
-  snus:
+  articles:
+    title: Articles
     output: true
   brands:
+    title: Brands
     output: true
-  articles:
+  posts:
+    title: Posts
     output: true
-
+  snus:
+    title: Snus
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 defaults:
-  - scope:
-      path: ""
-      type: "snus"
-    values:
-      layout: "product" 
-      permalink: /:title.html
-      title-seo: Купить Odens Cold Dry снюс в России
-      descr: У нас Вы можете Купить Odens Cold Dry по низким ценам 
-      product-name: Odens Cold Dry Extreme White Portion Snus
-      brand: Odens
-      price: 510
-      new-price:
-      image: /images/products/odens-cold-dry.png
-      availability-descr: Товар заканчивается
-      has_availability: true
-      gramm: 13
-      nicotine: 22
-      portions: 13-15
-      gramm: 10
-      taste: Мята
-      form: Порционный, сухой
-      composition: Табак, вода, соль, пищевой ароматизатор
-
-  - scope:
-      path: ""
-      type: "brands"
-    values:
-      title: Odens
-      layout: "brand"
-      name-brand: Odens Snus
-      permalink: brands/:title.html
-      title-seo: Odens Snus в России
-      descr: Odens Snus можно приобрести в нашем интернет-магазине. Отправляем по всей территории России.
-      image: /images/brands/odens-brand.png
-
-  - scope:
-      path: ""
-      type: "articles"
-    values:
-      layout: "page-article"
-      permalink: articles/:title.html
-      title-seo: Снюс это
-      descr: Снюс это описание
-      h1-title: Заголовок статьи
-     
-  - scope:
-      path: "index.md"
-    values:
-      layout: home
-      title-seo: Купить снюс в России
-      h1-title: Купить снюс в России
-      descr: Купить снюс в России по выгодным ценам.
-      lead-text: SnusPrim — интернет-магазин жевательного табака в России
-      small-text: При заказе 10 банок скидка 5%, 20 банок - 7%
-
+- scope:
+    path: ''
+    type: snus
+  values:
+    layout: product
+    permalink: "/:title.html"
+    title-seo: Купить Odens Cold Dry снюс в России
+    descr: У нас Вы можете Купить Odens Cold Dry по низким ценам
+    product-name: Odens Cold Dry Extreme White Portion Snus
+    brand: Odens
+    price: 510
+    new-price: 
+    image: "/images/products/odens-cold-dry.png"
+    availability-descr: Товар заканчивается
+    has_availability: true
+    gramm: 10
+    nicotine: 22
+    portions: 13-15
+    taste: Мята
+    form: Порционный, сухой
+    composition: Табак, вода, соль, пищевой ароматизатор
+- scope:
+    path: ''
+    type: brands
+  values:
+    title: Odens
+    layout: brand
+    name-brand: Odens Snus
+    permalink: brands/:title.html
+    title-seo: Odens Snus в России
+    descr: Odens Snus можно приобрести в нашем интернет-магазине. Отправляем по всей
+      территории России.
+    image: "/images/brands/odens-brand.png"
+- scope:
+    path: ''
+    type: articles
+  values:
+    layout: page-article
+    permalink: articles/:title.html
+    title-seo: Снюс это
+    descr: Снюс это описание
+    h1-title: Заголовок статьи
+- scope:
+    path: index.md
+  values:
+    layout: home
+    title-seo: Купить снюс в России
+    h1-title: Купить снюс в России
+    descr: Купить снюс в России по выгодным ценам.
+    lead-text: SnusPrim — интернет-магазин жевательного табака в России
+    small-text: При заказе 10 банок скидка 5%, 20 банок - 7%
+exclude:
+- package.json
+- gulpfile.js
+- node_modules
+- app
+- Gemfile
+- Gemfile.lock
+include:
+- ".htaccess"
 gems:
-  - jekyll-sitemap
-    
-    
-
-
+- jekyll-sitemap

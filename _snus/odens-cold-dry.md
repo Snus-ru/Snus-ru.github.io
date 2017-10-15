@@ -1,14 +1,13 @@
 ---
-layout: product
-
+title: Odens Cold Dry
 permalink: odens-cold-dry.html
+layout: product
 title-seo: Купить Odens Cold Dry в России
 descr: У нас Вы можете купить Odens Cold Dry. Отправляем по всей территории России
-
 product-name: Odens Cold Dry Extreme White Portion Snus
 brand: Odens
 price: 510
-image: /images/products/odens-cold-dry.png
+image: "/images/products/odens-cold-dry.png"
 availability-descr: Товар заканчивается
 has_availability: true
 nicotine: 22
