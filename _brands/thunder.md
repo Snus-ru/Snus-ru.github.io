@@ -1,5 +1,6 @@
 ---
 title: Thunder
+position: 4
 layout: brand
 title-seo: Thunder Snus в России
 descr: Thunder Snus можно приобрести в нашем интернет-магазине. Отправляем по всей
