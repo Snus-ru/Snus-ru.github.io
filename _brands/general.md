@@ -1,6 +1,6 @@
 ---
 title: General
-position: 2
+position: 3
 layout: brand
 title-seo: General Snus в России
 descr: General Snus можно приобрести в нашем интернет-магазине. Отправляем по всей

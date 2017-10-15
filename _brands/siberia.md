@@ -1,6 +1,6 @@
 ---
 title: Siberia
-position: 3
+position: 1
 layout: brand
 title-seo: Siberia Snus в России
 descr: Siberia Snus можно приобрести в нашем интернет-магазине. Отправляем по всей
