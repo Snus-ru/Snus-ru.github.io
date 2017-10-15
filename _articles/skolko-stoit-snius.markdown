@@ -1,6 +1,7 @@
 ---
 title: Сколько стоит снюс
 date: 2017-10-15 08:46:00 Z
+position: 1
 title-seo: snus price
 descr: snus price for Russian
 h1-title: snus цена
