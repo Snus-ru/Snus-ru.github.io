@@ -1,6 +1,7 @@
 ---
 title: Siberia White Dry
 permalink: siberia-white-dry.html
+position: 1
 layout: product
 title-seo: Купить Siberia White Dry в России
 descr: Купите Siberia white dry у нас. Отправляем по всей территории России

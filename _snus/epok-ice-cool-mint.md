@@ -1,6 +1,7 @@
 ---
 title: Epok Ice Cool Mint
 permalink: epok-ice-cool-mint.html
+position: 2
 layout: product
 title-seo: Купить Epok Strong Ice Cool Mint в России
 descr: Купите Epok Ice Cool Mint в нашем интернет-магазине. Отправляем по всей территории
