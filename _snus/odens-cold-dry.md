@@ -8,7 +8,6 @@ product-name: Odens Cold Dry Extreme White Portion Snus
 brand: Odens
 price: 550
 image: "/images/products/odens-cold-dry.png"
-availability-descr: Есть
 has_availability: true
 gramm: 10
 nicotine: 22
