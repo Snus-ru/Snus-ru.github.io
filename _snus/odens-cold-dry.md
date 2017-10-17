@@ -19,4 +19,4 @@ composition: Табак, вода, соль, пищевой ароматизат
 layout: product
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam velit iure numquam totam eos sit laborum tempore, nisi hic necessitatibus. Veniam dolore rerum sunt laboriosam libero tempore blanditiis, consequuntur inventore! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore qui iste asperiores harum maiores praesentium maxime ullam blanditiis, odio dolorum. Officia quisquam eaque suscipit facere ducimus, sit quaerat. Numquam, corrupti?
+Odens cold dry считается одним из самых крепких, несмотря на то что в нем в два раза меньше никотина, чем в красной сибири, но расслабляет не хуже. Великолепный мятный вкус, очень сбалансированный табак.
