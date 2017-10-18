@@ -8,7 +8,7 @@ product-name: Siberia Extremely Strong White Dry Snus
 brand: Siberia
 price: 600
 image: "/images/products/siberia-white.png"
-availability-descr: В наличии
+availability-descr: Есть
 has_availability: true
 gramm: 13
 nicotine: 43
