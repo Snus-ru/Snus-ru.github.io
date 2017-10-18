@@ -6,7 +6,7 @@ descr: У нас Вы можете купить Thunder NRG. Отправляе�
 product-name: Thunder NRG Snus
 brand: Thunder
 price: 600
-image: "/uploads/2497494f.jpg"
+image: "/uploads/01-0331-thunder-nrg-portion_.jpg"
 gramm: 19.8
 nicotine: 45
 portions: 22
