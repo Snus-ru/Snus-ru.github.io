@@ -7,6 +7,7 @@ product-name: Thunder NRG White Dry Portion Snus
 brand: Thunder
 price: 600
 image: "/uploads/01-0731-thunder-nrg-white-dry_.jpg"
+availability-descr: Есть
 gramm: 19.8
 nicotine: 45
 portions: 22

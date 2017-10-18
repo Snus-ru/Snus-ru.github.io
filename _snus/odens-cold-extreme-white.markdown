@@ -7,6 +7,7 @@ descr: У нас Вы можете купить Odens Cold Extreme White Portion
 product-name: Odens Cold Extreme White Portion Snus
 price: 550
 image: "/uploads/odens-white.png"
+availability-descr: Есть
 gramm: 20
 nicotine: 22
 portions: 16-18
