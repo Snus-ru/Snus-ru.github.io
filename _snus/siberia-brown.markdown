@@ -7,6 +7,7 @@ product-name: 'Siberia Brown Extremely Strong Portion Snus '
 brand: Siberia
 price: 600
 image: "/uploads/siberia-brown.png"
+availability-descr: Есть
 gramm: 20
 nicotine: 43
 portions: 20
