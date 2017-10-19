@@ -1,7 +1,7 @@
 ---
 title: Odens Cold Extreme White
 date: 2017-10-17 15:05:00 Z
-position: 4
+position: 6
 title-seo: Купить Odens Cold Extreme White Portion снюс в России
 descr: У нас Вы можете купить Odens Cold Extreme White Portion. Отправляем по всей
   территории России.
