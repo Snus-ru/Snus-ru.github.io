@@ -1,7 +1,7 @@
 ---
 title: Thunder NRG White
 date: 2017-10-17 15:00:00 Z
-position: 6
+position: 7
 title-seo: Купить Thunder NRG в России
 descr: У нас Вы можете купить Thunder NRG. Отправляем по всей территории России.
 product-name: Thunder NRG White Dry Portion Snus
