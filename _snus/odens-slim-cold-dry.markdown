@@ -12,9 +12,10 @@ image: "/uploads/oden-s-extreme-slim-cold-white-dry.jpg"
 availability-descr: Есть
 gramm: 10
 nicotine: 22
-portions: 16
+portions: 14-16
 taste: Мята
 form: Порционный, сухой
 composition: Табак, вода, соль, пищевой ароматизатор
 ---
 
+Тоненькие пакетики снюса Cold Dry Slim очень удобные, но никотина чуть меньше, чем в обычных пакетиках.
