@@ -7,6 +7,7 @@ descr: У нас Вы можете купить Odens Cold Dry. Отправля
 product-name: Odens Cold Dry Extreme White Portion Snus
 brand: Odens
 price: 550
+new-price: 500
 image: "/images/products/odens-cold-dry.png"
 availability-descr: Есть
 has_availability: true
