@@ -11,7 +11,8 @@ price: 650
 new-price: 600
 image: "/uploads/thunder-x-slim-white-dry.png"
 availability-descr: Есть
-gramm: 15/8
+has_availability: false
+gramm: 15.8
 nicotine: 45
 portions: 22
 taste: Мята
