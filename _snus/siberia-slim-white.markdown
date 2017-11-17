@@ -1,7 +1,7 @@
 ---
 title: Siberia Slim White
 date: 2017-10-18 13:18:00 Z
-position: 2
+position: 3
 title-seo: Купить Siberia Slim White Strong в России
 descr: У нас Вы можете купить Siberia Slim White Strong. Отправляем по всей территории
   России.
