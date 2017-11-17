@@ -7,7 +7,7 @@ descr: У нас Вы можете купить Odens Double Mint. Отправ�
 product-name: Odens Double Mint White Dry Portion Snus
 brand: Odens
 price: 550
-new-price: 500
+new-price: 450
 image: "/uploads/odens-double-mint.png"
 availability-descr: Есть
 gramm: 10
