@@ -7,10 +7,10 @@ descr: У нас Вы можете купить Thunder X Slim White Dry Portion
   территории России.
 product-name: Thunder X Slim White Dry Portion Snus
 brand: Thunder
-price: 650
-new-price: 600
+price: 600
+new-price: 500
 image: "/uploads/thunder-x-slim-white-dry.png"
-availability-descr: Есть
+availability-descr: Нет
 has_availability: false
 gramm: 15.8
 nicotine: 45
