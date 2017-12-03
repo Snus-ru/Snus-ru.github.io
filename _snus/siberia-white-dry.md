@@ -6,7 +6,7 @@ title-seo: Купить Siberia White Dry в России
 descr: Купите Siberia white dry у нас. Отправляем по всей территории России
 product-name: Siberia Extremely Strong White Dry Snus
 brand: Siberia
-price: 600
+price: 550
 image: "/images/products/siberia-white.png"
 availability-descr: Есть
 has_availability: true
