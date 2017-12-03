@@ -7,9 +7,9 @@ descr: У нас Вы можете купить Oden's Slim Cold Dry. Отпра
   России.
 product-name: Oden's Extreme Slim Cold White Dry
 brand: Odens
-price: 550
-new-price: 500
-image: "/uploads/oden-s-extreme-slim-cold-white-dry.jpg"
+price: 500
+new-price: 430
+image: "/uploads/3.png"
 availability-descr: Есть
 gramm: 10
 nicotine: 22
