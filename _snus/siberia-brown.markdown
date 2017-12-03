@@ -6,7 +6,7 @@ title-seo: Купить Siberia Brown в России
 descr: У нас Вы можете купить Siberia Brown. Отправляем по всей территории России.
 product-name: 'Siberia Brown Extremely Strong Portion Snus '
 brand: Siberia
-price: 600
+price: 500
 image: "/uploads/siberia-brown.png"
 availability-descr: Есть
 gramm: 20
