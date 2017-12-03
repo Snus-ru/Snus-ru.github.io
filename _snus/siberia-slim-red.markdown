@@ -9,6 +9,7 @@ product-name: Siberia -80°C Slim White Dry Snus
 brand: Siberia
 price: 550
 image: "/uploads/1.jpg"
+availability-descr: Нет
 has_availability: false
 gramm: 13
 nicotine: 43
