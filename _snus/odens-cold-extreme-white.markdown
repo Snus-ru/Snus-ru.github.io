@@ -6,7 +6,7 @@ title-seo: Купить Odens Cold Extreme White Portion снюс в Росси�
 descr: У нас Вы можете купить Odens Cold Extreme White Portion. Отправляем по всей
   территории России.
 product-name: Odens Cold Extreme White Portion Snus
-price: 550
+price: 500
 image: "/uploads/odens-white.png"
 availability-descr: Есть
 gramm: 20
