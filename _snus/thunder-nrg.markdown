@@ -6,7 +6,7 @@ title-seo: Купить Thunder NRG в России
 descr: У нас Вы можете купить Thunder NRG. Отправляем по всей территории России.
 product-name: Thunder NRG Snus
 brand: Thunder
-price: 550
+price: 500
 image: "/uploads/01-0331-thunder-nrg-portion_.jpg"
 availability-descr: Есть
 gramm: 19.8
