@@ -7,6 +7,7 @@ descr: У нас Вы можете купить Siberia Slim Brown. Отправ
 product-name: Siberia Slim Brown Extremely Strong Snus
 brand: Siberia
 price: 550
+new-price: 500
 image: "/uploads/2.jpg"
 availability-descr: Есть
 gramm: 20
