@@ -8,6 +8,7 @@ descr: У нас Вы можете купить Siberia -80°C Slim White Dry Re
 product-name: Siberia -80°C Slim White Dry Snus
 brand: Siberia
 price: 550
+new-price: 500
 image: "/uploads/1.jpg"
 availability-descr: Нет
 has_availability: false
