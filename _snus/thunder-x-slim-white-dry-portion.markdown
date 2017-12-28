@@ -1,11 +1,11 @@
 ---
-title: Thunder X Slim White Dry Portion
+title: Thunder X Slim White Dry
 date: 2017-10-21 08:21:00 Z
 position: 14
-title-seo: Купить Thunder X Slim White Dry Portion в России
-descr: У нас Вы можете купить Thunder X Slim White Dry Portion. Отправляем по всей
-  территории России.
-product-name: Thunder X Slim White Dry Portion Snus
+title-seo: Купить Thunder X Slim White Dry  в России
+descr: У нас Вы можете купить Thunder X Slim White Dry. Отправляем по всей территории
+  России.
+product-name: Thunder X Slim White Dry Snus
 brand: Thunder
 price: 600
 new-price: 500
