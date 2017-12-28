@@ -1,6 +1,7 @@
 ---
 title: Odens Double Mint
 date: 2017-12-28 11:39:00 Z
+position: 2
 title-seo: Купить Odens Double Mint в России
 descr: У нас Вы можете купить Odens Double Mint. Отправляем по всей территории России.
 product-name: Odens Double Mint
