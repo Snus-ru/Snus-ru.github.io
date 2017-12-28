@@ -1,11 +1,10 @@
 ---
-title: Oden's Slim Cold Dry
+title: Odens Slim Cold Dry
 date: 2017-10-18 15:03:00 Z
 position: 7
-title-seo: Купить Oden's Slim Cold Dry в России
-descr: У нас Вы можете купить Oden's Slim Cold Dry. Отправляем по всей территории
-  России.
-product-name: Oden's Extreme Slim Cold White Dry
+title-seo: Купить Odens Slim Cold Dry в России
+descr: У нас Вы можете купить Odens Slim Cold Dry. Отправляем по всей территории России.
+product-name: Odens Extreme Slim Cold White Dry
 brand: Odens
 price: 500
 new-price: 430
