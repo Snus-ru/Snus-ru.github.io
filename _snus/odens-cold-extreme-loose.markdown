@@ -1,10 +1,9 @@
 ---
-title: Odens Cold Extreme Loose
+title: Odens Cold Loose
 date: 2017-12-28 11:55:00 Z
-title-seo: Купить Odens Cold Extreme Loose в России
-descr: У нас Вы можете купить Odens Cold Extreme Loose. Отправляем по всей территории
-  России.
-product-name: Odens Cold Extreme Loose
+title-seo: Купить Odens Cold Loose в России
+descr: У нас Вы можете купить Odens Cold Loose. Отправляем по всей территории России.
+product-name: Odens Cold Loose
 brand: Odens
 price: 500
 image: "/uploads/3-4e84d5.jpg"
