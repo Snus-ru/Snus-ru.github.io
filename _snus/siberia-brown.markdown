@@ -1,7 +1,7 @@
 ---
 title: Siberia Brown
 date: 2017-10-18 12:06:00 Z
-position: 13
+position: 8
 title-seo: Купить Siberia Brown в России
 descr: У нас Вы можете купить Siberia Brown. Отправляем по всей территории России.
 product-name: 'Siberia Brown Extremely Strong Portion Snus '
