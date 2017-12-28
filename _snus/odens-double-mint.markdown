@@ -7,6 +7,7 @@ product-name: Odens Double Mint
 brand: Odens
 price: 450
 image: "/uploads/4.jpg"
+availability-descr: Есть
 gramm: 18
 nicotine: 22
 portions: 20
