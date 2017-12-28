@@ -1,7 +1,7 @@
 ---
 title: Thunder X Slim White Dry Portion
 date: 2017-10-21 08:21:00 Z
-position: 12
+position: 14
 title-seo: Купить Thunder X Slim White Dry Portion в России
 descr: У нас Вы можете купить Thunder X Slim White Dry Portion. Отправляем по всей
   территории России.

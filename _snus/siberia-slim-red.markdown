@@ -1,7 +1,7 @@
 ---
 title: Siberia Slim red
 date: 2017-12-03 13:27:00 Z
-position: 11
+position: 13
 title-seo: Купить Siberia -80°C Slim White Dry Red в России.
 descr: У нас Вы можете купить Siberia -80°C Slim White Dry Red. Отправляем по всей
   территории России.
