@@ -8,7 +8,8 @@ product-name: General ONYX
 brand: General
 price: 600
 image: "/uploads/2-d9dede.png"
-availability-descr: Есть
+availability-descr: Нет
+has_availability: false
 gramm: 21.6
 nicotine: 12
 portions: 24
