@@ -8,7 +8,8 @@ product-name: Thunder X White Dry
 brand: Thunder
 price: 500
 image: "/uploads/1.png"
-availability-descr: Есть
+availability-descr: Нет
+has_availability: false
 gramm: 11.7
 nicotine: 45
 portions: 18
