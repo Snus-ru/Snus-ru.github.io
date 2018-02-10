@@ -9,12 +9,12 @@ product-name: Odens Extreme Wintergreen White Dry
 brand: Odens
 price: 450
 image: "/uploads/6.jpg"
-availability-descr: Нет
-has_availability: false
+availability-descr: Есть
+has_availability: true
 gramm: 10
 nicotine: 22
 portions: 12-14
-taste: Зимних свежих растений
+taste: Хвоя
 form: Порционный, сухой
 composition: Табак, вода, соль, пищевой ароматизатор
 ---
