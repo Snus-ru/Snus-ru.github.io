@@ -8,8 +8,8 @@ product-name: Odens Double Mint White Dry Snus
 brand: Odens
 price: 400
 image: "/uploads/odens-double-mint.png"
-availability-descr: Нет
-has_availability: false
+availability-descr: Есть
+has_availability: true
 gramm: 10
 nicotine: 22
 portions: 13-15
