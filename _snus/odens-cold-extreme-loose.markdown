@@ -7,7 +7,7 @@ descr: У нас Вы можете купить Odens Cold Loose. Отправл
 product-name: Odens Cold Loose
 brand: Odens
 price: 500
-image: "/uploads/3-4e84d5.jpg"
+image: "/uploads/odens-cold-extreme-lossnus.png"
 availability-descr: Есть
 gramm: 40
 nicotine: 22
