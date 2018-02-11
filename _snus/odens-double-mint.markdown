@@ -1,20 +1,21 @@
 ---
-title: Odens Double Mint
+title: Odens 79
 date: 2017-12-28 11:39:00 Z
 position: 3
-title-seo: Купить Odens Double Mint в России
-descr: У нас Вы можете купить Odens Double Mint. Отправляем по всей территории России.
-product-name: Odens Double Mint
+title-seo: Купить Odens 79 Extreme Portion в России
+descr: У нас Вы можете купить Odens 79 Extreme Portion. Отправляем по всей территории
+  России.
+product-name: Odens 79 Extreme Portion
 brand: Odens
 price: 450
-image: "/uploads/4.jpg"
+image: "/uploads/odens-79-extreme-portionssnus-debbcb.png"
 availability-descr: Есть
 gramm: 18
 nicotine: 22
 portions: 20
 taste: Сладкая мята
-form: Порционный, сухой
+form: Порционный, влажный
 composition: Табак, вода, соль, пищевой ароматизатор
 ---
 
-Не такой вонючий запах как у других, имеет приятный запах мяты, очень достойный выбор!
+Табак во вкусом лайма, средняя крепость, альтернатива колд драю и многим вкусовым.
