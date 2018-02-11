@@ -13,7 +13,7 @@ availability-descr: Нет
 has_availability: false
 gramm: 19.8
 nicotine: 45
-portions: 22
+portions: 18
 taste: Энергетический напиток
 form: Порционный, сухой
 composition: Табак, вода, соль, пищевой ароматизатор
