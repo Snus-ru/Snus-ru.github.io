@@ -7,6 +7,7 @@ descr: У нас Вы можете купить Odens Cold Dry. Отправля
 product-name: Odens Cold Dry  White Portion Snus
 brand: Odens
 price: 400
+new-price: 350
 image: "/images/products/odens-cold-dry.png"
 availability-descr: Есть
 has_availability: true
@@ -19,4 +20,4 @@ composition: Табак, вода, соль, пищевой ароматизат
 layout: product
 ---
 
-Odens cold dry считается одним из самых крепких, несмотря на то что в нем в два раза меньше никотина, чем в красной сибири, но расслабляет не хуже. Великолепный мятный вкус, очень сбалансированный табак.
+Odens cold dry считается одним из самых крепких, несмотря на то что в нем в два раза меньше никотина, чем в красной сибири, но расслабляет не хуже. Для ознакомления советую его или вкусовые.
