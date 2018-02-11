@@ -7,6 +7,7 @@ descr: У нас Вы можете купить Thunder X White Dry. Отпра�
 product-name: Thunder X White Dry
 brand: Thunder
 price: 500
+new-price: 450
 image: "/uploads/1.png"
 availability-descr: Нет
 has_availability: false
