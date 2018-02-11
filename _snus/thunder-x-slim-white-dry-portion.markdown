@@ -7,8 +7,8 @@ descr: У нас Вы можете купить Thunder X Slim White Dry. Отп
   России.
 product-name: Thunder X Slim White Dry Snus
 brand: Thunder
-price: 600
-new-price: 500
+price: 500
+new-price: 450
 image: "/uploads/thunder-x-slim-white-dry.png"
 availability-descr: Нет
 has_availability: false
