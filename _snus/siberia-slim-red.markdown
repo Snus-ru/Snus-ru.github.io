@@ -9,8 +9,8 @@ product-name: Siberia  Slim White Dry Snus
 brand: Siberia
 price: 500
 image: "/uploads/1.jpg"
-availability-descr: Нет
-has_availability: false
+availability-descr: Есть
+has_availability: true
 gramm: 13
 nicotine: 43
 portions: 21
