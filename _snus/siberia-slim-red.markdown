@@ -5,7 +5,7 @@ position: 6
 title-seo: Купить Siberia Slim White Dry Red в России.
 descr: У нас Вы можете купить Siberia Slim White Dry Red. Отправляем по всей территории
   России.
-product-name: Siberia  Slim White Dry Snus
+product-name: Siberia  Slim White Dry
 brand: Siberia
 price: 500
 image: "/uploads/1.jpg"
