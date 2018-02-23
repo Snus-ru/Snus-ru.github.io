@@ -7,11 +7,11 @@ descr: Купите Epok Lakrits Slim в нашем интернет-магаз�
 product-name: Epok Lakrits Slim
 brand: Epok
 price: 550
-image: "/uploads/epok-blabar-vit-tobak-portionssnus.png"
+image: "/uploads/epok-lakrits-slim-strong-vit-tobak-portionssnus.png"
 availability-descr: Есть
 has_availability: true
 gramm: 16.8
-nicotine: 8
+nicotine: 14
 portions: 24
 taste: Лакрица
 form: Порционный, влажный
