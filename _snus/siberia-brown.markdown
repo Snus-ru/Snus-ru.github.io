@@ -7,7 +7,6 @@ descr: У нас Вы можете купить Siberia Brown. Отправля�
 product-name: Siberia Brown Extremely Strong Portion
 brand: Siberia
 price: 500
-new-price: 450
 image: "/uploads/siberia-brown.png"
 availability-descr: Есть
 has_availability: true
