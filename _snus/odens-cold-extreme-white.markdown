@@ -5,7 +5,7 @@ position: 11
 title-seo: Купить Odens Cold Extreme White снюс в России
 descr: У нас Вы можете купить Odens Cold Extreme White. Отправляем по всей территории
   России.
-product-name: Odens Cold Extreme White Snus
+product-name: Odens Cold Extreme White
 price: 500
 image: "/uploads/odens-white.png"
 availability-descr: Есть
