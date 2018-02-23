@@ -4,7 +4,7 @@ date: 2017-10-18 12:19:00 Z
 position: 16
 title-seo: Купить Odens Double Mint в России
 descr: У нас Вы можете купить Odens Double Mint. Отправляем по всей территории России.
-product-name: Odens Double Mint White Dry Snus
+product-name: Odens Double Mint White Dry
 brand: Odens
 price: 400
 image: "/uploads/odens-double-mint.png"
