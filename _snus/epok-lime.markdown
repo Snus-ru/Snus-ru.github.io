@@ -1,10 +1,10 @@
 ---
 title: Epok Lime
 date: 2018-02-23 06:39:00 Z
-title-seo: Купить Epok Lime Slim Strong в России
-descr: Купите Epok Lime Slim Strong  в нашем интернет-магазине. Отправляем по всей
+title-seo: Купить Epok Strong Lime Slim в России
+descr: Купите Epok Strong Lime Slim  в нашем интернет-магазине. Отправляем по всей
   территории России.
-product-name: 'Epok Lime Slim Strong '
+product-name: Epok Strong Lime Slim
 brand: Epok
 price: 550
 image: "/uploads/epok-lime-slim-strong-vit-tobak-portionssnus.png"
