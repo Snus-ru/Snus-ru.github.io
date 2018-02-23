@@ -15,7 +15,7 @@ gramm: 16.8
 nicotine: 14
 portions: 24
 taste: Мята
-form: Порционный, slim, белый
+form: Порционный, влажный, slim
 composition: Табак, вода, соль, пищевой ароматизатор
 layout: product
 ---
