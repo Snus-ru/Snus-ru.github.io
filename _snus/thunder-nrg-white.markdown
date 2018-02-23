@@ -4,7 +4,7 @@ date: 2017-10-17 15:00:00 Z
 position: 20
 title-seo: Купить Thunder NRG в России
 descr: У нас Вы можете купить Thunder NRG. Отправляем по всей территории России.
-product-name: Thunder NRG White Dry Snus
+product-name: Thunder NRG White Dry
 brand: Thunder
 price: 500
 new-price: 450
