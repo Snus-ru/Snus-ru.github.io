@@ -1,10 +1,10 @@
 ---
 title: Epok Lakrits
 date: 2018-02-23 05:09:00 Z
-title-seo: Купить Epok Lakrits в России
-descr: Купите Epok Lakrits в нашем интернет-магазине. Отправляем по всей территории
+title-seo: Купить Epok Lakrits Slim в России
+descr: Купите Epok Lakrits Slim в нашем интернет-магазине. Отправляем по всей территории
   России.
-product-name: Epok Lakrits
+product-name: Epok Lakrits Slim
 brand: Epok
 price: 550
 image: "/uploads/epok-blabar-vit-tobak-portionssnus.png"
