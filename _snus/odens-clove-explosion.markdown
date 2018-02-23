@@ -5,7 +5,7 @@ position: 2
 title-seo: Купить Odens Clove Explosion White Dry в России
 descr: У нас Вы можете купить Odens Clove Explosion White Dry. Отправляем по всей
   территории России.
-product-name: Odens Clove Explosion White Dry Snus
+product-name: Odens Clove Explosion White Dry
 brand: Odens
 price: 450
 image: "/uploads/odens-clove-explosion-white-dry-13g.jpg"
