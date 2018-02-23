@@ -14,7 +14,7 @@ gramm: 16.8
 nicotine: 8
 portions: 24
 taste: Черника
-form: Порционный, влажный
+form: Порционный, влажный, slim
 composition: Табак, вода, соль, пищевой ароматизатор
 ---
 
