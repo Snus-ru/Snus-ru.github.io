@@ -7,6 +7,14 @@ descr: Купите Epok Melon Slim в нашем интернет-магази�
 product-name: Epok Melon Slim
 brand: Epok
 price: 550
+image: "/uploads/epok-melon-vit-tobak-portionssnus.png"
+availability-descr: Есть
+gramm: 16.8
+nicotine: 8
+portions: 24
+taste: Дыня
+form: Порционный, влажный, slim
+composition: Табак, вода, соль, пищевой ароматизатор
 ---
 
 Снюс Эпок – первый в мире снюс, который использует белый табак.
