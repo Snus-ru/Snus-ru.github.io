@@ -5,7 +5,7 @@ position: 9
 title-seo: Купить Epok Strong Ice Cool Mint в России
 descr: Купите Epok Ice Cool Mint в нашем интернет-магазине. Отправляем по всей территории
   России.
-product-name: Epok Strong Ice Cool Slim Snus
+product-name: Epok Strong Ice Cool Slim
 brand: Epok
 price: 550
 image: "/uploads/epok-ice-cool-mint-slim-strong-vit-tobak-portionssnus.png"
