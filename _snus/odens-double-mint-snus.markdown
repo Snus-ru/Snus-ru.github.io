@@ -7,6 +7,7 @@ descr: У нас Вы можете купить Odens Double Mint. Отправ�
 product-name: Odens Double Mint White Dry
 brand: Odens
 price: 400
+new-price: 350
 image: "/uploads/odens-double-mint.png"
 availability-descr: Есть
 has_availability: true
