@@ -13,7 +13,7 @@ availability-descr: Есть
 gramm: 18
 nicotine: 22
 portions: 20
-taste: Сладкая мята
+taste: Лайм
 form: Порционный, влажный
 composition: Табак, вода, соль, пищевой ароматизатор
 ---
