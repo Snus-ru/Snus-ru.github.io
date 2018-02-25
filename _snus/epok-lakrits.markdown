@@ -2,10 +2,10 @@
 title: Epok Lakrits
 date: 2018-02-23 05:09:00 Z
 position: 10
-title-seo: Купить Epok Lakrits Slim в России
-descr: Купите Epok Lakrits Slim в нашем интернет-магазине. Отправляем по всей территории
-  России.
-product-name: Epok Lakrits Slim
+title-seo: Купить Epok Strong Lakrits Slim в России
+descr: Купите Epok Strong Lakrits Slim в нашем интернет-магазине. Отправляем по всей
+  территории России.
+product-name: Epok Strong Lakrits Slim
 brand: Epok
 price: 550
 image: "/uploads/epok-lakrits-slim-strong-vit-tobak-portionssnus.png"
