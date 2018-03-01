@@ -7,6 +7,7 @@ descr: У нас Вы можете купить Odens Cold Extreme White. Отп
   России.
 product-name: Odens Cold Extreme White
 price: 450
+new-price: 400
 image: "/uploads/odens-white.png"
 availability-descr: Есть
 gramm: 20
