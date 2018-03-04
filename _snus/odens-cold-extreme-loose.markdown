@@ -11,7 +11,7 @@ image: "/uploads/odens-cold-extreme-lossnus.png"
 availability-descr: Есть
 gramm: 40
 nicotine: 22
-portions: Рассыпчатый
+portions: Примерно 40
 taste: Мята
 form: В гранулах, влажный
 composition: Табак, вода, соль, пищевой ароматизатор
