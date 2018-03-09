@@ -8,7 +8,8 @@ product-name: Odens Cold Loose
 brand: Odens
 price: 500
 image: "/uploads/odens-cold-extreme-lossnus.png"
-availability-descr: Есть
+availability-descr: Ожидается в начале апреля.
+has_availability: false
 gramm: 40
 nicotine: 22
 portions: Примерно 40
