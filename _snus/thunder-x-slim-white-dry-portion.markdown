@@ -7,11 +7,10 @@ descr: У нас Вы можете купить Thunder X Slim White Dry. Отп
   России.
 product-name: Thunder X Slim White Dry
 brand: Thunder
-price: 500
 new-price: 450
 image: "/uploads/thunder-x-slim-white-dry.png"
-availability-descr: Есть
-has_availability: true
+availability-descr: Нет
+has_availability: false
 gramm: 15.8
 nicotine: 45
 portions: 22
@@ -21,5 +20,6 @@ composition: Табак, вода, соль, пищевой ароматизат
 ---
 
 Снюс бренда "Thunder" из серии "X" чрезвычайно крепкие.
-Если сравнивать с той же красной сибирью, то сибирь будет однозначно крепче. Но в Thunder x Slim гораздо больше пакетиков, 22 против 17.
+Если сравнивать с той же красной сибирью, то сибирь будет однозначно крепче. 
+Но в Thunder X Slim гораздо больше пакетиков, 22 против 17 и пакетики имеют форму slim.
 Подойдет любителям очень крепких табаков.
