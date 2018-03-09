@@ -2,10 +2,10 @@
 title: Oden's Kola
 date: 2018-02-11 09:13:00 Z
 position: 23
-title-seo: Купить Oden's Kola Extreme Portion в России
-descr: У нас Вы можете купить Oden's Kola Extreme Portion. Отправляем по всей территории
+title-seo: Купить Odens Kola Extreme Portion в России
+descr: У нас Вы можете купить Odens Kola Extreme Portion. Отправляем по всей территории
   России.
-product-name: Oden's Kola Extreme Portion
+product-name: Odens Kola Extreme Portion
 brand: Odens
 price: 450
 image: "/uploads/odens-kola-extreme-portionssnus.png"
