@@ -6,8 +6,7 @@ title-seo: Купить Thunder X White Dry в России
 descr: У нас Вы можете купить Thunder X White Dry. Отправляем по всей территории России.
 product-name: Thunder X White Dry
 brand: Thunder
-price: 500
-new-price: 450
+price: 450
 image: "/uploads/1.png"
 availability-descr: Есть
 has_availability: true
