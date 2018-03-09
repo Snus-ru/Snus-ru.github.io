@@ -4,7 +4,7 @@ permalink: siberia-white-dry.html
 position: 9
 title-seo: Купить Siberia White Dry в России
 descr: Купите Siberia White Dry у нас. Отправляем по всей территории России
-product-name: Siberia Strong White Dry
+product-name: Siberia Strong White Dry Portion
 brand: Siberia
 price: 450
 image: "/images/products/siberia-white.png"
@@ -19,6 +19,6 @@ composition: Табак, вода, соль, пищевой ароматизат
 layout: product
 ---
 
-Siberia Extremely Strong White Dry(красная сибирь) один из самых крепких видов жевательного табака.
+Siberia Strong White Dry Portion(красная сибирь) один из самых крепких видов жевательного табака.
 Пакетики сухие, имеют аромат мяты. 
 Подойдет тем кто уже имел дело с табаком, новичкам не рекомендуется из-за сильно высокой крепости.
