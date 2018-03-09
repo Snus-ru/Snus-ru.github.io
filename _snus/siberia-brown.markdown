@@ -4,9 +4,10 @@ date: 2017-10-18 12:06:00 Z
 position: 3
 title-seo: Купить Siberia Brown в России
 descr: У нас Вы можете купить Siberia Brown. Отправляем по всей территории России.
-product-name: Siberia Brown Extremely Strong Portion
+product-name: Siberia Brown Strong Portion
 brand: Siberia
 price: 500
+new-price: 450
 image: "/uploads/siberia-brown.png"
 availability-descr: Есть
 has_availability: true
@@ -18,5 +19,5 @@ form: Порционный, влажный
 composition: Табак, вода, соль, пищевой ароматизатор
 ---
 
-Siberia Brown(коричневая сибирь) по содержанию никотина такая же как и Siberia white dry(43mg) но, по ощущениям чуть слабее. Порций в пачке больше чем в красной и они более влажные. 
+Siberia Brown Strong Portion(коричневая сибирь) по содержанию никотина такая же как и Siberia красная, но по ощущениям покрепче. Порций в пачке больше чем в красной и они влажные. 
 Приятный вкус табака с оттенком мяты.
