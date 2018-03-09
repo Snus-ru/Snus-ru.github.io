@@ -10,8 +10,8 @@ brand: Thunder
 price: 500
 new-price: 450
 image: "/uploads/thunder-x-slim-white-dry.png"
-availability-descr: Нет
-has_availability: false
+availability-descr: Есть
+has_availability: true
 gramm: 15.8
 nicotine: 45
 portions: 22
