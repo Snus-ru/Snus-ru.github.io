@@ -9,7 +9,8 @@ product-name: Oden's Kola Extreme Portion
 brand: Odens
 price: 450
 image: "/uploads/odens-kola-extreme-portionssnus.png"
-availability-descr: Есть
+availability-descr: Ожидается 20 марта.
+has_availability: false
 gramm: 18
 nicotine: 22
 portions: 20
@@ -18,4 +19,4 @@ form: Порционный, влажный
 composition: Табак, вода, соль, пищевой ароматизатор
 ---
 
-Табак средней крепости со вкусом колы.
+Табак средней крепости со вкусом колы. Чуть слабее колд драя.
