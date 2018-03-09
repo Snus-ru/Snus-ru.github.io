@@ -8,7 +8,7 @@ product-name: Thunder NRG
 brand: Thunder
 new-price: 450
 image: "/uploads/01-0331-thunder-nrg-portion_.jpg"
-availability-descr: Есть
+availability-descr: Нет
 has_availability: true
 gramm: 19.8
 nicotine: 45
