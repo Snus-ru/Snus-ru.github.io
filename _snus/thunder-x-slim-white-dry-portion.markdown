@@ -7,7 +7,7 @@ descr: У нас Вы можете купить Thunder X Slim White Dry. Отп
   России.
 product-name: Thunder X Slim White Dry
 brand: Thunder
-new-price: 450
+price: 450
 image: "/uploads/thunder-x-slim-white-dry.png"
 availability-descr: Нет
 has_availability: false
