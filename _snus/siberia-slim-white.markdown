@@ -9,7 +9,8 @@ product-name: Siberia Slim White Portion
 brand: Siberia
 new-price: 500
 image: "/uploads/siberia--80%C2%B0c-slim-white.jpg"
-availability-descr: Есть
+availability-descr: Нет
+has_availability: false
 gramm: 20
 nicotine: 24
 portions: 24
