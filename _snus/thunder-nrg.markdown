@@ -6,10 +6,10 @@ title-seo: Купить Thunder NRG в России
 descr: У нас Вы можете купить Thunder NRG. Отправляем по всей территории России.
 product-name: Thunder NRG
 brand: Thunder
-new-price: 450
+price: 450
 image: "/uploads/01-0331-thunder-nrg-portion_.jpg"
 availability-descr: Нет
-has_availability: true
+has_availability: false
 gramm: 19.8
 nicotine: 45
 portions: 22
