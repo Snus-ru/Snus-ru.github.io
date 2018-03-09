@@ -7,7 +7,7 @@ descr: У нас Вы можете купить Odens Clove Explosion White Dry.
   территории России.
 product-name: Odens Clove Explosion White Dry
 brand: Odens
-price: 450
+price: 400
 image: "/uploads/odens-clove-explosion-white-dry-13g.jpg"
 availability-descr: Есть
 gramm: 13
