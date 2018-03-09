@@ -9,8 +9,8 @@ brand: Thunder
 price: 500
 new-price: 450
 image: "/uploads/1.png"
-availability-descr: Нет
-has_availability: false
+availability-descr: Есть
+has_availability: true
 gramm: 11.7
 nicotine: 45
 portions: 18
