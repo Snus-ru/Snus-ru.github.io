@@ -6,6 +6,7 @@ title-seo: Купить Thunder X в России
 descr: У нас Вы можете купить Thunder X. Отправляем по всей территории России.
 product-name: Thunder X
 brand: Thunder
+price: 500
 new-price: 450
 image: "/uploads/1-0bf58c.jpg"
 availability-descr: Есть
