@@ -7,7 +7,7 @@ descr: У нас Вы можете купить Siberia Slim White Strong. От�
   России.
 product-name: Siberia Slim White Portion
 brand: Siberia
-new-price: 500
+price: 500
 image: "/uploads/siberia--80%C2%B0c-slim-white.jpg"
 availability-descr: Нет
 has_availability: false
