@@ -8,8 +8,8 @@ product-name: Thunder NRG
 brand: Thunder
 price: 450
 image: "/uploads/01-0331-thunder-nrg-portion_.jpg"
-availability-descr: Нет
-has_availability: false
+availability-descr: Есть
+has_availability: true
 gramm: 19.8
 nicotine: 45
 portions: 22
@@ -18,4 +18,4 @@ form: Порционный, влажный
 composition: Табак, вода, соль, пищевой ароматизатор
 ---
 
-Thunder NRG имеет среднюю крепость, если вам надоела сибирь или вам нравится вкус энергетика, смело берите этот тандер.
+Thunder NRG имеет среднюю крепость, если вам надоела сибирь или вам нравится вкус энергетика, смело берите этот тандер. 
