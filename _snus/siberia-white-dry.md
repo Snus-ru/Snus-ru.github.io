@@ -7,7 +7,7 @@ descr: Купите Siberia White Dry у нас. Отправляем по вс�
 product-name: Siberia Strong White Dry Portion
 brand: Siberia
 price: 450
-image: "/images/products/siberia-white.png"
+image: "/uploads/siberia-white-dry.png"
 availability-descr: Есть
 has_availability: true
 gramm: 13
