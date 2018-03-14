@@ -8,9 +8,10 @@ descr: У нас Вы можете купить Siberia Slim White Strong. От�
 product-name: Siberia Slim White Portion
 brand: Siberia
 price: 500
+new-price: 450
 image: "/uploads/siberia--80%C2%B0c-slim-white.jpg"
-availability-descr: Нет
-has_availability: false
+availability-descr: Есть
+has_availability: true
 gramm: 20
 nicotine: 24
 portions: 24
@@ -19,5 +20,5 @@ form: Порционный, сухой
 composition: Табак, вода, соль, пищевой ароматизатор
 ---
 
-Siberia Slim White(синяя слим сибирь) по содержанию никотина такая же как и колд драй.
-Пакетики тоненькие.
+Siberia Slim White (синяя слим сибирь) по содержанию никотина такая же как и колд драй.
+Пакетики тоненькие. 
