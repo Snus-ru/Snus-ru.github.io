@@ -6,10 +6,10 @@ title-seo: Купить Odens Cold Loose в России
 descr: У нас Вы можете купить Odens Cold Loose. Отправляем по всей территории России.
 product-name: Odens Cold Loose
 brand: Odens
-price: 500
+price: 400
 image: "/uploads/odens-cold-extreme-lossnus.png"
-availability-descr: Ожидается в начале апреля.
-has_availability: false
+availability-descr: Есть
+has_availability: true
 gramm: 40
 nicotine: 22
 portions: Примерно 40
