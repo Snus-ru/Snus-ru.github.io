@@ -1,7 +1,7 @@
 ---
 title: THUNDER ORIGINAL
 date: 2018-03-09 07:02:00 Z
-position: 7
+position: 10
 title-seo: Купить Thunder Original в России
 descr: У нас Вы можете купить Thunder Original. Отправляем по всей территории России.
 product-name: Thunder Original
