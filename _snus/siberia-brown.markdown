@@ -10,7 +10,7 @@ price: 500
 new-price: 450
 image: "/uploads/siberia-brown.png"
 availability-descr: Есть
-has_availability: true
+has_availability: false
 gramm: 20
 nicotine: 43
 portions: 20
