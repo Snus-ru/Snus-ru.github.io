@@ -9,8 +9,8 @@ product-name: Epok Melon Slim
 brand: Epok
 price: 550
 image: "/uploads/epok-melon-vit-tobak-portionssnus.png"
-availability-descr: Ожидается 20 марта.
-has_availability: false
+availability-descr: Есть
+has_availability: true
 gramm: 16.8
 nicotine: 8
 portions: 24
