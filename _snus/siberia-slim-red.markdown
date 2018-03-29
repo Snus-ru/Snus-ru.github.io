@@ -8,6 +8,7 @@ descr: У нас Вы можете купить Siberia Slim White Dry Red. От
 product-name: Siberia  Slim White Dry
 brand: Siberia
 price: 500
+new-price: 450
 image: "/uploads/1.jpg"
 availability-descr: Есть
 has_availability: true
