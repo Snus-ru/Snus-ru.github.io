@@ -9,8 +9,8 @@ product-name: Epok Strong Lime Slim
 brand: Epok
 price: 550
 image: "/uploads/epok-lime-slim-strong-vit-tobak-portionssnus.png"
-availability-descr: Есть
-has_availability: true
+availability-descr: Ожидается 4 апреля
+has_availability: false
 gramm: 16.8
 nicotine: 14
 portions: 24
