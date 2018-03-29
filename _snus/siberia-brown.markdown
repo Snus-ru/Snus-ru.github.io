@@ -6,11 +6,10 @@ title-seo: Купить Siberia Brown в России
 descr: У нас Вы можете купить Siberia Brown. Отправляем по всей территории России.
 product-name: Siberia Brown Strong Portion
 brand: Siberia
-price: 500
 new-price: 450
 image: "/uploads/siberia-brown.png"
 availability-descr: Есть
-has_availability: false
+has_availability: true
 gramm: 20
 nicotine: 43
 portions: 20
