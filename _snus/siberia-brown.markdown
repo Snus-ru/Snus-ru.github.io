@@ -8,7 +8,7 @@ product-name: Siberia Brown Strong Portion
 brand: Siberia
 price: 500
 new-price: 450
-image: "/uploads/siberia-brown.png"
+image: "/uploads/siberia-brown.jpg"
 availability-descr: Есть
 has_availability: true
 gramm: 20
