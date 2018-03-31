@@ -7,7 +7,7 @@ descr: У нас Вы можете купить Odens Wintergreen White Dry. О�
   России.
 product-name: Odens Extreme Wintergreen White Dry
 brand: Odens
-new-price: 350
+price: 350
 image: "/uploads/6.jpg"
 availability-descr: Есть
 has_availability: true
