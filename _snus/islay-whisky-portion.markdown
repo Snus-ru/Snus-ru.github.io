@@ -4,7 +4,7 @@ date: 2018-04-04 10:10:00 Z
 title-seo: Купить Islay Whisky Portion в России
 descr: У нас Вы можете купить Islay Whisky Portion. Отправляем по всей территории
   России.
-product-name: Islay Whisky Portion
+product-name: Islay Whisky Portion Железная банка
 brand: Odens
 price: 550
 image: "/uploads/islay-whisky.jpg"
