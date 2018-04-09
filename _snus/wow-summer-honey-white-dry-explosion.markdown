@@ -8,7 +8,8 @@ product-name: WOW! Summer Honey White Dry Explosion
 brand: Odens
 price: 450
 image: "/uploads/wow-summer-honey-white-dry-explosion.jpg"
-availability-descr: Есть
+availability-descr: Ожидается в конце апреля.
+has_availability: false
 gramm: 32
 nicotine: 43
 portions: 15
