@@ -9,7 +9,8 @@ product-name: Islay Whisky Portion Железная банка
 brand: Odens
 price: 550
 image: "/uploads/islay-whisky.jpg"
-availability-descr: Есть
+availability-descr: Нет
+has_availability: false
 gramm: 20
 nicotine: 12
 portions: 20
