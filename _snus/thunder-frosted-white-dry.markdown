@@ -1,7 +1,7 @@
 ---
 title: Thunder Frosted White Dry
 date: 2018-03-14 08:05:00 Z
-position: 2
+position: 1
 title-seo: Купить Thunder Frosted White Dry в России
 descr: У нас Вы можете купить Thunder Frosted White Dry. Отправляем по всей территории
   России.
