@@ -9,8 +9,8 @@ product-name: Epok Blabar Slim
 brand: Epok
 price: 550
 image: "/uploads/epok-blabar-vit-tobak-portionssnus-e688b6.png"
-availability-descr: Нет
-has_availability: false
+availability-descr: Есть
+has_availability: true
 gramm: 16.8
 nicotine: 8
 portions: 24
