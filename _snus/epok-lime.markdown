@@ -7,7 +7,7 @@ descr: Купите Epok Strong Lime Slim  в нашем интернет-маг
   территории России.
 product-name: Epok Strong Lime Slim
 brand: Epok
-price: 500
+price: 550
 image: "/uploads/epok-lime-slim-strong-vit-tobak-portionssnus.png"
 availability-descr: Есть
 has_availability: true
