@@ -7,7 +7,7 @@ descr: Купите Epok Melon Slim в нашем интернет-магази�
   России.
 product-name: Epok Melon Slim
 brand: Epok
-price: 550
+price: 500
 image: "/uploads/epok-melon-vit-tobak-portionssnus.png"
 availability-descr: Есть
 has_availability: true
