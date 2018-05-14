@@ -7,7 +7,7 @@ descr: Купите Epok Strong Lakrits Slim в нашем интернет-ма
   территории России.
 product-name: Epok Strong Lakrits Slim
 brand: Epok
-price: 550
+price: 500
 image: "/uploads/epok-lakrits-slim-strong-vit-tobak-portionssnus.png"
 availability-descr: Есть
 has_availability: true
