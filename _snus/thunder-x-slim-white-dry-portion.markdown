@@ -9,8 +9,8 @@ product-name: Thunder X Slim White Dry
 brand: Thunder
 price: 450
 image: "/uploads/thunder-x-slim-white-dry.png"
-availability-descr: Есть
-has_availability: true
+availability-descr: Нет
+has_availability: false
 gramm: 15.8
 nicotine: 45
 portions: 22
