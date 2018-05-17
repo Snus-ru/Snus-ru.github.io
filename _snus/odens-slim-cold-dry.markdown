@@ -1,7 +1,7 @@
 ---
 title: Odens Slim Cold Dry
 date: 2017-10-18 15:03:00 Z
-position: 17
+position: 18
 title-seo: Купить Odens Slim Cold Dry в России
 descr: У нас Вы можете купить Odens Slim Cold Dry. Отправляем по всей территории России.
 product-name: Odens Slim Cold White Dry
