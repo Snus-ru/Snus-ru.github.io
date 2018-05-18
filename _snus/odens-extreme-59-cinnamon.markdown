@@ -1,7 +1,7 @@
 ---
 title: ODEN'S EXTREME 59 CINNAMON
 date: 2018-03-09 07:47:00 Z
-position: 6
+position: 5
 title-seo: Купить Oden's Extreme 59 Cinnamon в России
 descr: У нас Вы можете купить Oden's Extreme 59 Cinnamon. Отправляем по всей территории
   России.
