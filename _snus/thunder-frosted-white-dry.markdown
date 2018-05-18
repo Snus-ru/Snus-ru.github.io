@@ -9,7 +9,8 @@ product-name: Thunder Frosted White Dry
 brand: Thunder
 price: 450
 image: "/uploads/thunder-frosted-white-dry-extra-strong.jpg"
-availability-descr: Есть
+availability-descr: Нет
+has_availability: false
 gramm: 11.7
 nicotine: 27
 portions: 18
