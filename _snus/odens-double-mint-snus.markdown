@@ -12,7 +12,7 @@ availability-descr: Есть
 has_availability: true
 gramm: 10
 nicotine: 22
-portions: 13-15
+portions: 13
 taste: Мята
 form: Порционный, сухой
 composition: Табак, вода, соль, пищевой ароматизатор
