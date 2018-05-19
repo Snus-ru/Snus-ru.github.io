@@ -13,7 +13,7 @@ availability-descr: Есть
 has_availability: true
 gramm: 10
 nicotine: 22
-portions: 12-14
+portions: 13
 taste: Хвоя
 form: Порционный, сухой
 composition: Табак, вода, соль, пищевой ароматизатор
