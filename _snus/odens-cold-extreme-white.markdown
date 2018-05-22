@@ -8,7 +8,8 @@ descr: У нас Вы можете купить Odens Cold Extreme White. Отп
 product-name: Odens Cold Extreme White
 price: 400
 image: "/uploads/odens-white.png"
-availability-descr: Есть
+availability-descr: Нет
+has_availability: false
 gramm: 20
 nicotine: 22
 portions: 16-18
