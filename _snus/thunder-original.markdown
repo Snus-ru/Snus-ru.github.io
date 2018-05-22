@@ -8,8 +8,8 @@ product-name: Thunder Original
 brand: Thunder
 price: 450
 image: "/uploads/thunder-original-extra-strong.jpg"
-availability-descr: Нет
-has_availability: false
+availability-descr: Есть
+has_availability: true
 gramm: 19.8
 nicotine: 16
 portions: 22
