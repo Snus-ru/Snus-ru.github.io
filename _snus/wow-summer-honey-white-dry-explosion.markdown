@@ -11,7 +11,7 @@ price: 450
 image: "/uploads/wow-summer-honey-white-dry-explosion.jpg"
 availability-descr: Есть
 has_availability: true
-gramm: 32
+gramm: 15
 nicotine: 43
 portions: 17
 taste: Лимон с мёдом
