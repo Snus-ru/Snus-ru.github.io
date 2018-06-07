@@ -1,7 +1,7 @@
 ---
 title: Odens Exteme Pure Wintergreen
 date: 2017-12-28 12:50:00 Z
-position: 31
+position: 10
 title-seo: Купить Odens Exteme Pure Wintergreen в России
 descr: У нас Вы можете купить Odens Exteme Pure Wintergreen. Отправляем по всей территории
   России.
@@ -9,8 +9,8 @@ product-name: Odens Exteme Pure Wintergreen
 brand: Odens
 price: 450
 image: "/uploads/1233.PNG"
-availability-descr: Нет
-has_availability: false
+availability-descr: Есть
+has_availability: true
 gramm: 18
 nicotine: 22
 portions: 18-20
