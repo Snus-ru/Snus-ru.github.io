@@ -1,7 +1,7 @@
 ---
 title: Odens Cold Loose
 date: 2017-12-28 11:55:00 Z
-position: 1
+position: 2
 title-seo: Купить Odens Cold Loose в России
 descr: У нас Вы можете купить Odens Cold Loose. Отправляем по всей территории России.
 product-name: Odens Cold Loose
