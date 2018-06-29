@@ -9,8 +9,8 @@ product-name: Offroad X White Dry Portion
 brand: other-brands
 price: 400
 image: "/uploads/v2-0720-1-offroad-x-white-dry-portion_kopie.jpg"
-availability-descr: Есть
-has_availability: true
+availability-descr: Нет
+has_availability: false
 gramm: 10
 nicotine: 45
 portions: 15
