@@ -9,8 +9,8 @@ product-name: Odens Kola Extreme Portion
 brand: Odens
 price: 450
 image: "/uploads/odens-kola-extreme-portionssnus.png"
-availability-descr: Нет
-has_availability: false
+availability-descr: Есть
+has_availability: true
 gramm: 18
 nicotine: 22
 portions: 20
