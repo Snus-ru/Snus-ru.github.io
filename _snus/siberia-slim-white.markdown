@@ -10,8 +10,8 @@ brand: Siberia
 price: 500
 new-price: 450
 image: "/uploads/siberia--80%C2%B0c-slim-white.jpg"
-availability-descr: Есть
-has_availability: true
+availability-descr: Нет
+has_availability: false
 gramm: 20
 nicotine: 24
 portions: 24
