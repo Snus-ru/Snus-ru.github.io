@@ -1,7 +1,7 @@
 ---
 title: Epok Blueberry
 date: 2018-02-23 05:41:00 Z
-position: 32
+position: 31
 title-seo: Купить Epok Blabar Slim в России
 descr: Купите Epok Blabar Slim в нашем интернет-магазине. Отправляем по всей территории
   России.
