@@ -10,6 +10,7 @@ brand: Odens
 price: 450
 image: "/uploads/odens_extreme_wintergreen.jpg"
 availability-descr: Есть
+has_availability: true
 gramm: 18
 nicotine: 22
 portions: 20
