@@ -9,7 +9,8 @@ product-name: Odens 79 Extreme Portion
 brand: Odens
 price: 450
 image: "/uploads/odens-79-extreme-portionssnus-debbcb.png"
-availability-descr: Есть
+availability-descr: Нет
+has_availability: false
 gramm: 18
 nicotine: 22
 portions: 20
