@@ -9,7 +9,8 @@ product-name: Oden's Extreme 59 Cinnamon
 brand: Odens
 price: 450
 image: "/uploads/oden-s-extreme-59-cinnamon.jpg"
-availability-descr: Есть
+availability-descr: Нет
+has_availability: false
 gramm: 18
 nicotine: 22
 portions: 20
