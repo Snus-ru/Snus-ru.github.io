@@ -1,7 +1,7 @@
 ---
 title: Odens Cold Dry
 permalink: odens-cold-dry.html
-position: 7
+position: 6
 title-seo: Купить Odens Cold Dry в России
 descr: У нас Вы можете купить Odens Cold Dry. Отправляем по всей территории России.
 product-name: Odens Cold Dry White Portion
