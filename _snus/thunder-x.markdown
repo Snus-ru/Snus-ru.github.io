@@ -1,7 +1,7 @@
 ---
 title: Thunder X
 date: 2018-02-11 09:37:00 Z
-position: 15
+position: 16
 title-seo: Купить Thunder X в России
 descr: У нас Вы можете купить Thunder X. Отправляем по всей территории России.
 product-name: Thunder X
