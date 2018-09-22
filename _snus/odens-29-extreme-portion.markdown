@@ -9,7 +9,8 @@ product-name: Odens 29 Extreme Portion
 brand: Odens
 price: 450
 image: "/uploads/odens-29-apple.jpg"
-availability-descr: Есть
+availability-descr: Нет
+has_availability: false
 gramm: 18
 nicotine: 22
 portions: 20
