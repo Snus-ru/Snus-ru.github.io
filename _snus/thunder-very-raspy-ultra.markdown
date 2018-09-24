@@ -9,8 +9,8 @@ product-name: Thunder Very Raspy Ultra
 brand: Thunder
 price: 450
 image: "/uploads/2-b43e05.jpg"
-availability-descr: Нет
-has_availability: false
+availability-descr: Есть
+has_availability: true
 gramm: 19.8
 nicotine: 22
 portions: 22
