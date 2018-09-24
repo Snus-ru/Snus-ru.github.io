@@ -1,7 +1,7 @@
 ---
 title: Siberia White Portion
 date: 2017-12-28 11:32:00 Z
-position: 16
+position: 15
 title-seo: Купить Siberia White Portion в России
 descr: Купите Siberia White Portion у нас. Отправляем по всей территории России
 product-name: Siberia White Portion
