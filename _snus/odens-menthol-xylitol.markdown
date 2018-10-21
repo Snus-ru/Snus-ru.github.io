@@ -9,8 +9,8 @@ product-name: Odens Menthol Xylitol White Portion НОВИНКА
 brand: Odens
 price: 350
 image: "/uploads/odens-menthol-xylitol-extreme-white-dry.jpg"
-availability-descr: Нет
-has_availability: false
+availability-descr: Есть
+has_availability: true
 gramm: 10
 nicotine: 22
 portions: 13
