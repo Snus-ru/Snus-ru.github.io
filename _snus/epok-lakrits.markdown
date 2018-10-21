@@ -9,8 +9,8 @@ product-name: Epok Strong Lakrits Slim
 brand: Epok
 price: 500
 image: "/uploads/epok-lakrits-slim-strong-vit-tobak-portionssnus.png"
-availability-descr: Нет
-has_availability: false
+availability-descr: Есть
+has_availability: true
 gramm: 16.8
 nicotine: 14
 portions: 24
