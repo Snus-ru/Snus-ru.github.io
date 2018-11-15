@@ -1,7 +1,7 @@
 ---
 title: Thunder X White Dry
 date: 2017-12-28 06:39:00 Z
-position: 16
+position: 15
 title-seo: Купить Thunder X White Dry в России
 descr: У нас Вы можете купить Thunder X White Dry. Отправляем по всей территории России.
 product-name: Thunder X White Dry
