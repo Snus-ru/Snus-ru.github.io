@@ -9,8 +9,8 @@ product-name: Odens Clove Explosion White Dry
 brand: Odens
 price: 450
 image: "/uploads/odens-clove-explosion-white-dry-13g.jpg"
-availability-descr: Нет
-has_availability: false
+availability-descr: Есть
+has_availability: true
 gramm: 13
 nicotine: 36
 portions: 17
