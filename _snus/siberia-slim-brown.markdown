@@ -1,7 +1,7 @@
 ---
 title: Siberia Slim Brown
 date: 2017-10-18 13:11:00 Z
-position: 19
+position: 20
 title-seo: Купить Siberia Slim Brown в России.
 descr: У нас Вы можете купить Siberia Slim Brown. Отправляем по всей территории России.
 product-name: Siberia Slim Brown Extremely Strong
