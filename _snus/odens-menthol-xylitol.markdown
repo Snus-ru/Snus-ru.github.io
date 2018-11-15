@@ -5,7 +5,7 @@ position: 6
 title-seo: Купить Odens Menthol Xylitol в России
 descr: У нас Вы можете купить Odens Menthol Xylitol. Отправляем по всей территории
   России.
-product-name: Odens Menthol Xylitol White Portion НОВИНКА
+product-name: Odens Menthol Xylitol White Portion
 brand: Odens
 price: 350
 image: "/uploads/odens-menthol-xylitol-extreme-white-dry.jpg"
