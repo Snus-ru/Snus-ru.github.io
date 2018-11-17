@@ -6,7 +6,7 @@ title-seo: Купить Thunder NRG в России
 descr: У нас Вы можете купить Thunder NRG. Отправляем по всей территории России.
 product-name: Thunder NRG White Dry
 brand: Thunder
-price: 450
+price: 400
 image: "/uploads/01-0731-thunder-nrg-white-dry_.jpg"
 availability-descr: Есть
 has_availability: true
