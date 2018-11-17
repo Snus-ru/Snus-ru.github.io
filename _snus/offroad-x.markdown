@@ -7,8 +7,7 @@ descr: У нас Вы можете купить Offroad X White Dry Portion. О�
   России.
 product-name: Offroad X White Dry Portion
 brand: other-brands
-price: 400
-new-price: 350
+price: 350
 image: "/uploads/v2-0720-1-offroad-x-white-dry-portion_kopie.jpg"
 availability-descr: Есть
 has_availability: true
