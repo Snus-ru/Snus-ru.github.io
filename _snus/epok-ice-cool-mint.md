@@ -8,7 +8,7 @@ descr: Купите Epok Ice Cool Mint в нашем интернет-магаз
 product-name: Epok Strong Ice Cool Slim
 brand: Epok
 price: 500
-image: "/uploads/epok-ice-cool-mint-slim-strong-vit-tobak-portionssnus.png"
+image: "/uploads/epok-mint-strong.png"
 availability-descr: Есть
 has_availability: true
 gramm: 16.8
