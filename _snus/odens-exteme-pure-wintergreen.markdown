@@ -9,8 +9,8 @@ product-name: Odens Exteme Pure Wintergreen
 brand: Odens
 price: 450
 image: "/uploads/1233.PNG"
-availability-descr: Есть
-has_availability: true
+availability-descr: Нет
+has_availability: false
 gramm: 18
 nicotine: 22
 portions: 18-20
