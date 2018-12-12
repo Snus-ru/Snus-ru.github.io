@@ -1,7 +1,7 @@
 ---
 title: CHAINSAW Cold White Dry Ultra Strong
 date: 2018-11-15 13:17:00 Z
-position: 1
+position: 3
 title-seo: Купить CHAINSAW Cold White Dry Ultra Strong
 descr: У нас Вы можете купить CHAINSAW Cold White Dry Ultra Strong по низкой цене
 product-name: CHAINSAW Cold White Dry Ultra Strong

@@ -1,7 +1,7 @@
 ---
 title: Corvus Extreme
 date: 2018-11-21 09:40:00 Z
-position: 0
+position: 2
 title-seo: Купить Corvus Extreme в России
 descr: У нас вы можете купить Corvus по низкой цене
 product-name: "— — — — — — — — — —  Corvus Extreme"

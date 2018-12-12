@@ -1,6 +1,7 @@
 ---
 title: Odens Double Slim
 date: 2018-11-27 12:24:00 Z
+position: 0
 title-seo: Купить Odens Slim Wintergreen White Dry в России
 descr: У нас Вы можете купить Odens Slim Double Mint White Dry. Отправляем по всей
   территории России.
