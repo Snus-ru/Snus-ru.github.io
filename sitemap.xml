@@ -5,143 +5,283 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
-  <loc>https://www.snusprim.com/</loc>
-  <lastmod>2017-12-15T11:25:09+00:00</lastmod>
+  <loc>https://snusprim.ru/</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://www.snusprim.com/brands.html</loc>
-  <lastmod>2017-12-15T11:25:09+00:00</lastmod>
+  <loc>https://snusprim.ru/brands.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.snusprim.com/about.html</loc>
-  <lastmod>2017-12-15T11:25:09+00:00</lastmod>
+  <loc>https://snusprim.ru/about.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.snusprim.com/delivery.html</loc>
-  <lastmod>2017-12-15T11:25:09+00:00</lastmod>
+  <loc>https://snusprim.ru/delivery.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.snusprim.com/discount.html</loc>
-  <lastmod>2017-12-15T11:25:09+00:00</lastmod>
+  <loc>https://snusprim.ru/discount.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.snusprim.com/articles.html</loc>
-  <lastmod>2017-12-15T11:25:09+00:00</lastmod>
+  <loc>https://snusprim.ru/articles.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.snusprim.com/siberia-slim-brown.html</loc>
-  <lastmod>2017-12-15T11:25:09+00:00</lastmod>
+  <loc>https://snusprim.ru/odens-double-slim.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.snusprim.com/odens-cold-dry.html</loc>
-  <lastmod>2017-12-15T11:25:09+00:00</lastmod>
+  <loc>https://snusprim.ru/odens-wintergreen-slim.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.snusprim.com/epok-ice-cool-mint.html</loc>
-  <lastmod>2017-12-15T11:25:09+00:00</lastmod>
+  <loc>https://snusprim.ru/corvus-extreme.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.snusprim.com/siberia-slim-white.html</loc>
-  <lastmod>2017-12-15T11:25:09+00:00</lastmod>
+  <loc>https://snusprim.ru/chainsaw-cold-white-dry-ultra-strong.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.snusprim.com/thunder-nrg.html</loc>
-  <lastmod>2017-12-15T11:25:09+00:00</lastmod>
+  <loc>https://snusprim.ru/siberia-brown.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.snusprim.com/siberia-white-dry.html</loc>
-  <lastmod>2017-12-15T11:25:09+00:00</lastmod>
+  <loc>https://snusprim.ru/odens-29-extreme-portion.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.snusprim.com/odens-slim-cold-dry.html</loc>
-  <lastmod>2017-12-15T11:25:09+00:00</lastmod>
+  <loc>https://snusprim.ru/odens-kola.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.snusprim.com/siberia-brown.html</loc>
-  <lastmod>2017-12-15T11:25:09+00:00</lastmod>
+  <loc>https://snusprim.ru/wow-summer-honey-white-dry-explosion.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.snusprim.com/odens-double-mint-snus.html</loc>
-  <lastmod>2017-12-15T11:25:09+00:00</lastmod>
+  <loc>https://snusprim.ru/epok-ice-cool-mint.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.snusprim.com/thunder-nrg-white.html</loc>
-  <lastmod>2017-12-15T11:25:09+00:00</lastmod>
+  <loc>https://snusprim.ru/odens-menthol-xylitol.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.snusprim.com/odens-cold-extreme-white.html</loc>
-  <lastmod>2017-12-15T11:25:09+00:00</lastmod>
+  <loc>https://snusprim.ru/odens-cold-dry.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.snusprim.com/siberia-slim-red.html</loc>
-  <lastmod>2017-12-15T11:25:09+00:00</lastmod>
+  <loc>https://snusprim.ru/siberia-white-portion.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.snusprim.com/thunder-x-slim-white-dry-portion.html</loc>
-  <lastmod>2017-12-15T11:25:09+00:00</lastmod>
+  <loc>https://snusprim.ru/thunder-very-raspy-ultra.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.snusprim.com/brands/siberia.html</loc>
-  <lastmod>2017-12-15T11:25:09+00:00</lastmod>
+  <loc>https://snusprim.ru/siberia-slim-red.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.snusprim.com/brands/odens.html</loc>
-  <lastmod>2017-12-15T11:25:09+00:00</lastmod>
+  <loc>https://snusprim.ru/siberia-slim-white.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.snusprim.com/brands/epok.html</loc>
-  <lastmod>2017-12-15T11:25:09+00:00</lastmod>
+  <loc>https://snusprim.ru/thunder-nrg.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.snusprim.com/brands/general.html</loc>
-  <lastmod>2017-12-15T11:25:09+00:00</lastmod>
+  <loc>https://snusprim.ru/thunder-nrg-white.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.snusprim.com/brands/thunder.html</loc>
-  <lastmod>2017-12-15T11:25:09+00:00</lastmod>
+  <loc>https://snusprim.ru/thunder-x-slim-white-dry-portion.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.snusprim.com/checkout.html</loc>
-  <lastmod>2017-12-15T11:25:09+00:00</lastmod>
+  <loc>https://snusprim.ru/odens-extreme-59-cinnamon.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.snusprim.com/articles/about-snus.html</loc>
-  <lastmod>2017-12-15T11:25:09+00:00</lastmod>
+  <loc>https://snusprim.ru/siberia-white-dry.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.snusprim.com/articles/kak-upotreblyat-snus.html</loc>
-  <lastmod>2017-12-15T11:25:09+00:00</lastmod>
+  <loc>https://snusprim.ru/offroad-x.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.snusprim.com/brands/other-brands.html</loc>
-  <lastmod>2017-12-15T11:25:09+00:00</lastmod>
+  <loc>https://snusprim.ru/thunder-x-white-dry.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://snusprim.ru/thunder-x.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://snusprim.ru/siberia-slim-brown.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://snusprim.ru/odens-clove-explosion.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://snusprim.ru/odens-wintergreen-white-dry.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://snusprim.ru/odens-slim-cold-dry.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://snusprim.ru/odens-double-mint-snus.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://snusprim.ru/epok-melon-slim.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://snusprim.ru/epok-lime.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://snusprim.ru/epok-blueberry.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://snusprim.ru/epok-lakrits.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://snusprim.ru/general-onyx.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://snusprim.ru/islay-whisky-portion.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://snusprim.ru/odens-exteme-pure-wintergreen.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://snusprim.ru/thunder-original.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://snusprim.ru/odens-cold-extreme-white.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://snusprim.ru/thunder-frosted-white-dry.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://snusprim.ru/odens-cold-extreme-loose.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://snusprim.ru/odens-creamy-wintergreen.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://snusprim.ru/odens-double-mint.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://snusprim.ru/brands/siberia.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://snusprim.ru/brands/odens.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://snusprim.ru/brands/epok.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://snusprim.ru/brands/general.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://snusprim.ru/brands/thunder.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://snusprim.ru/checkout.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://snusprim.ru/articles/about-snus.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://snusprim.ru/articles/kak-upotreblyat-snus.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://snusprim.ru/brands/other-brands.html</loc>
+  <lastmod>2019-02-22T09:28:51+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 </urlset>
