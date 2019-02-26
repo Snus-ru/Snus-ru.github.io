@@ -10,7 +10,7 @@ brand: Odens
 price: 350
 image: "/uploads/odens-extreme-slim-pure-wintergreen-white-dry-snus.jpg"
 availability-descr: Есть
-has_availability: false
+has_availability: true
 gramm: 10
 nicotine: 22
 portions: 16
